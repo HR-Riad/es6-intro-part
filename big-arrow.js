@@ -24,4 +24,3 @@ const doMath = (x, y) => {
 
 const total = doMath(12, 5);
 console.log(total);
-© 2022 GitHub, Inc.
